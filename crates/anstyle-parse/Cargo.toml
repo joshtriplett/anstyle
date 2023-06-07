@@ -2,7 +2,7 @@
 name = "anstyle-parse"
 version = "0.1.1"
 description = "Parse ANSI Style Escapes"
-repository = "https://github.com/rust-cli/anstyle.git"
+repository.workspace = true
 homepage.workspace = true
 categories.workspace = true
 keywords = ["ansi", "terminal", "color", "vte"]

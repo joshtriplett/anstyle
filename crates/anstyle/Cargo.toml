@@ -2,7 +2,7 @@
 name = "anstyle"
 version = "0.3.2"
 description = "ANSI text styling"
-repository = "https://github.com/rust-cli/anstyle.git"
+repository.workspace = true
 homepage.workspace = true
 categories.workspace = true
 keywords = ["ansi", "terminal", "color", "no_std"]

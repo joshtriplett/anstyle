@@ -2,7 +2,7 @@
 name = "anstyle-yansi"
 version = "0.3.0"
 description = "Adapt between yansi and anstyle"
-repository = "https://github.com/rust-cli/anstyle.git"
+repository.workspace = true
 homepage.workspace = true
 categories.workspace = true
 keywords = ["ansi", "terminal", "color", "yansi"]

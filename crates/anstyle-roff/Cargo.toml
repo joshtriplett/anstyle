@@ -2,7 +2,7 @@
 name = "anstyle-roff"
 version = "0.2.0"
 description = "Adapt between anstyle and roff"
-repository = "https://github.com/rust-cli/anstyle.git"
+repository.workspace = true
 homepage.workspace = true
 categories.workspace = true
 keywords = ["ansi", "terminal", "roff"]

@@ -2,7 +2,7 @@
 name = "anstyle-git"
 version = "0.3.0"
 description = "Parse Git Style Descriptions"
-repository = "https://github.com/rust-cli/anstyle.git"
+repository.workspace = true
 homepage.workspace = true
 categories.workspace = true
 keywords = ["ansi", "terminal", "color", "git", "colorparse"]
